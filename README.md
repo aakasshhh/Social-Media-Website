@@ -75,7 +75,7 @@ Contributions are what make the open-source community such an amazing place to l
 Distributed under the MIT License. See LICENSE for more information.
 
 ## Contact
-For any questions or feedback, feel free to reach out at **Email:** aakashjainonline18@gmail.com or **Linkedin:** https://www.linkedin.com/in/aakash-jain-bb7336254/
+For any questions or feedback, feel free to reach out at **Email:** aakashjainonline18@gmail.com or **Linkedin:** https://www.linkedin.com/in/aakash-jain-/
 
 ## Acknowledgements
 - React.js documentation
