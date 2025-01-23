@@ -1,4 +1,4 @@
-# SocialSphere
+# SocialSphere 
 
 **SocialSphere** is a feature-rich social media website built using React.js. It includes functionalities such as user authentication, profile modifications, image posting, deletion, liking, sharing, commenting, following suggestions, and an activity list. The website is designed to be fully responsive, ensuring a seamless experience across various devices.
 
