@@ -4,7 +4,7 @@ import Left from '../../Components/LeftSide/Left'
 import FriendsProfileMiddle from '../../Components/FriendsProfile/FriendsProfileMiddle'
 import { useState } from 'react'
 import Right from '../../Components/RightSide/Right'
-import "./FriendsId.css"
+import "../FriendsId/FriendsId.css"
 
 const FriendsId = ({friendProfile}) => {
 

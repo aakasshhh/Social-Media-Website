@@ -21,10 +21,10 @@ const Profile = () => {
 
   const [modelDetails,setModelDetails] = useState(
     {
-      ModelName:"Sam",
-      ModelUserName:"@saammm.7",
+      ModelName:"Aakash",
+      ModelUserName:"@aakasshhh",
       ModelCountryName:"India",
-      ModelJobName:"Part Time Cricketer"
+      ModelJobName:"Web Developer in Google"
     }
   )
 

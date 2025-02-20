@@ -31,7 +31,7 @@ const InfoFriendPost = ({val}) => {
             likes:23,
             username:"Violet",
             time:"3 Hours Ago",
-            comment:"Wow, what a breathtaking view!. Nature's beauty never fails to inspire awe and wonder."
+            comment:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse asperiores debitis saepe itaque, eligendi quasi laboriosam vitae voluptatem animi maiores voluptatibus."
         },
         {
             id:2,
@@ -39,7 +39,7 @@ const InfoFriendPost = ({val}) => {
             likes:5,
             username:"Brandon",
             time:"1 Hour Ago",
-            comment:" Loreum ipsum dolor sit amet consectetur adipisicing elit."
+            comment:"Lorem ipsum dolor sit amet consectetur adipisicing elit."
         },
         {
             id:3,

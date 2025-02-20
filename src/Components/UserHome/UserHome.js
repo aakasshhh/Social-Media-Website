@@ -22,3 +22,4 @@ const UserHome = ({setUserPostData,userPostData,profileImg,modelDetails,images})
 }
 
 export default UserHome 
+

@@ -28,31 +28,31 @@ const ProfileMiddle = ({following,
     [
       {
         id:1,
-        username:"Sam",
+        username:"Vijay",
         profilepicture:Profile,
         img:img1,
         datetime:moment("20230401", "YYYYMMDD").fromNow(),
-        body:"Defying odds and redefining the game.",
+        body:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia illum provident consequuntur reprehenderit tenetur, molestiae quae blanditiis rem placeat! Eligendi, qui quia quibusdam dolore molestiae veniam neque fuga explicabo illum?",
         like: 22,
         comment:12
     },
     {
         id:2,
-        username:"Sam",
+        username:"Vijay",
         profilepicture:Profile,
         img:img2,
         datetime:moment("20230525", "YYYYMMDD").fromNow(),
-        body:"Strength is earned, not given.",
+        body:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia illum provident consequuntur reprehenderit tenetur, molestiae quae blanditiis rem placeat! Eligendi, qui quia quibusdam dolore molestiae veniam neque fuga explicabo illum?",
         like: 84,
         comment:30
     },
     {
         id:3,
-        username:"Sam",
+        username:"Vijay",
         profilepicture:Profile,
         img:img3,
         datetime:moment.utc("2023-08-13 12:45:00").local().startOf('seconds').fromNow(),
-        body:"In the pursuit of strength, persistence prevails.",
+        body:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia illum provident consequuntur reprehenderit tenetur, molestiae quae blanditiis rem placeat! Eligendi, qui quia quibusdam dolore molestiae veniam neque fuga explicabo illum?",
         like: 340,
         comment:76
     }
@@ -68,7 +68,7 @@ const ProfileMiddle = ({following,
 
   
     const id =userPostData.length ? userPostData[userPostData.length -1].id +1 :1
-    const username="Sam"
+    const username="Vijay"
     const profilepicture=Profile
     const datetime=moment.utc(new Date(), 'yyyy/MM/dd kk:mm:ss').local().startOf('seconds').fromNow()
     const img= images ? {img:URL.createObjectURL(images)} : null

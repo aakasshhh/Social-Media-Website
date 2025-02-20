@@ -5,6 +5,7 @@ import img4 from "../assets/Post Images/img4.jpg"
 import img5 from "../assets/Post Images/img5.jpg"
 import img6 from "../assets/Post Images/img6.jpg"
 
+
 import DPimg1 from "../assets/DP/img1.jpg"
 import DPimg2 from "../assets/DP/img2.jpg"
 import DPimg3 from "../assets/DP/img3.jpg"
@@ -24,7 +25,7 @@ export const DisPlayPostData =[
       comment:10
     },
     {
-      username:"Chris Daniel",
+      username:"chris dhaniel",
       profilepicture:DPimg2,
       img:img2,
       datetime:"May 01, 2023 12:05 AM",
@@ -33,7 +34,7 @@ export const DisPlayPostData =[
       comment:50
     },
     {
-      username:"Serena",
+      username:"April",
       profilepicture:DPimg3,
       img:img3,
       datetime:"June 01, 2023 12:05 AM",

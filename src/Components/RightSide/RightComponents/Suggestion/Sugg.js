@@ -6,7 +6,7 @@ import "../Suggestion/Sugg.css"
 const Sugg = () => {
   return (
     <div className="Sugg-comp">
-      <h2>Suggestions For You</h2>
+      <h2>Suggestion For You</h2>
 
       <div className="sugg-people">
         <div className="s-left">

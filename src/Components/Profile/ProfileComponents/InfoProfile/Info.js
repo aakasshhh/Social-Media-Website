@@ -140,13 +140,13 @@ const Info = ({userPostData,
 
               <div className="info-details-list">
                 <CalendarMonthRoundedIcon />
-                <span>Joined in 2022-08-12</span>
+                <span>Joined in 2023-08-12</span>
               </div>
             </div>
 
             <div className="info-col-2">
               <div>
-                <h2>228</h2>
+                <h2>5,000</h2>
                 <span>Followers</span>
               </div>
               <div>

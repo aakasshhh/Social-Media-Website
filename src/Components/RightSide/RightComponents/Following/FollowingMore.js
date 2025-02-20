@@ -12,30 +12,30 @@ const FollowingMore = ({showMore,setShowMore}) => {
         {   
             id:1,
             name:"Johnson",
-            username:"@johnson09",
+            username:"@John",
             img:Fimg1
         },
         {  
             id:2,
-            name:"Taylor",
-            username:"@swiftie",
+            name:"Pink",
+            username:"@Pinkee",
             img:Fimg2
         },
         {   id:3,
-            name:"Brock Lesnar",
-            username:"@brandonBran",
+            name:"Brock",
+            username:"@BrandonBran",
             img:Fimg3
         },
         {   
             id:4,
-            name:"Laura",
-            username:"@lauraa",
+            name:"Chutki",
+            username:"@Chutki",
             img:Fimg4
         },
         {  
             id:5,
-            name:"Jassica",
-            username:"@jassicamia",
+            name:"jassica",
+            username:"@JassicaMia",
             img:Fimg5
         }
     ]

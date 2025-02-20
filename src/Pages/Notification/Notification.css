@@ -115,5 +115,7 @@ small{
     .notification-msg span{
         font-size: 15px;
     }
-   
+    small{
+
+    }
 }
