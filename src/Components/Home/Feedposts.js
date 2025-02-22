@@ -2,7 +2,7 @@ import React from 'react'
 import Post from './Post'
 
 const Feedposts = ({posts,setPosts,setFriendsProfile,images}) => {
-  return (
+  return(
     <div className='feedposts'>
         {posts.map((post)=>(
             <Post 
@@ -17,5 +17,6 @@ const Feedposts = ({posts,setPosts,setFriendsProfile,images}) => {
     </div>
   )
 }
+
 
 export default Feedposts
