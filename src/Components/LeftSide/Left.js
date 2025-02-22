@@ -66,8 +66,8 @@ const Left = ({profileImg,
           <div className="user-name-userid">
             <img src={profileImg ? (profileImg) : Profile} alt="" />
               <div className='L-user'>
-                <h1>{modelDetails ? (modelDetails.ModelName) : "Vijay"}</h1>
-                <span>{modelDetails ? (modelDetails.ModelUserName) : "@vijay98"}</span>
+                <h1>{modelDetails ? (modelDetails.ModelName) : "Aakash"}</h1>
+                <span>{modelDetails ? (modelDetails.ModelUserName) : "@aakasshhh"}</span>
             </div>
           </div>
         </Link>
@@ -76,7 +76,7 @@ const Left = ({profileImg,
           {logOutExit && (
             <div className="logOutExitContainer">
               <button>Add an existing account</button>
-              <Link to="/" style={{width:"100%"}}><button>Log out @vijay98</button></Link>
+              <Link to="/" style={{width:"100%"}}><button>Log out @aakasshhh</button></Link>
             </div>
           )}
       </div>
