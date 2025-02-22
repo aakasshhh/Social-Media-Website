@@ -30,7 +30,7 @@
   - MongoDB
  
   - 
-![Screenshot 2024-06-11 205459](https://github.com/aakasshhh/Social-Media-Website/assets/118706951/0f03775e-6071-46c2-aa61-0176cb6a4c0e)
+![Screenshot 2025-02-22 123503](https://github.com/user-attachments/assets/df52d909-82ee-4a63-9ab1-3e0eade03e82)
 
 ## Installation
 
@@ -60,7 +60,7 @@ To get a local copy up and running follow these simple steps:
 - **Interact:** Like, share, and comment on posts.
 - **Follow:** Get suggestions on whom to follow and see their activity.
 
-![Screenshot 2024-06-11 205529](https://github.com/aakasshhh/Social-Media-Website/assets/118706951/9a56eed2-97d7-4e81-b2fc-f69f76740f27)
+![Screenshot 2025-02-22 110846](https://github.com/user-attachments/assets/1aa64de2-2147-45b8-a413-01d302b73e1b)
 
 ## Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
